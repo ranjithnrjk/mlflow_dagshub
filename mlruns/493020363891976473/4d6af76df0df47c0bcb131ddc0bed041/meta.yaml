@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493020363891976473/4d6af76df0df47c0bcb131ddc0bed041/artifacts
+end_time: 1724049380738
+entry_point_name: ''
+experiment_id: '493020363891976473'
+lifecycle_stage: active
+run_id: 4d6af76df0df47c0bcb131ddc0bed041
+run_name: enthused-mole-313
+run_uuid: 4d6af76df0df47c0bcb131ddc0bed041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724049378391
+status: 3
+tags: []
+user_id: codespace

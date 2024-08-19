@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493020363891976473/9a5ca44c886a4ef6adcf4696dba2c574/artifacts
+end_time: 1724049232183
+entry_point_name: ''
+experiment_id: '493020363891976473'
+lifecycle_stage: active
+run_id: 9a5ca44c886a4ef6adcf4696dba2c574
+run_name: classy-midge-764
+run_uuid: 9a5ca44c886a4ef6adcf4696dba2c574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724049228711
+status: 3
+tags: []
+user_id: codespace
